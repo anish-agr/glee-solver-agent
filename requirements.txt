@@ -1,0 +1,5 @@
+glee-sdk>=0.0.4
+pandas>=2.0
+pyarrow>=14.0
+numpy>=1.24
+requests>=2.31

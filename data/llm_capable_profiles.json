@@ -1,0 +1,1 @@
+{"llm_capable": ["leviathan", "optima"], "not_llm_capable": ["citadel", "prospector", "velocity"]}
